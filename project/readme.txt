@@ -1,4 +1,4 @@
-Here are some python or R files
+File description
 
 1. nodeDistribution
 Here is the jupyter file and related data used to draw the distribution of Chicago sound nodes.
