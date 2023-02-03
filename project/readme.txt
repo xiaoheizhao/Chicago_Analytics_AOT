@@ -20,3 +20,10 @@ Here is the jupyter file and related data for drawing weighted Thiessen Polygon 
 
 7. GeoDetector
 In this study, GeoDetector is used to analyze the influence of 7 urban factors on the spatial distribution of Chicago sound. Here is the code file and related data for the analysis.
+
+
+
+
+
+
+
