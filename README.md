@@ -1,6 +1,6 @@
-# Research on spatio-temporal trend of sound and its influencing factors based on AoT sequence data
+# Spatiotemporal analytics of environmental sounds and influencing factors based on urban sensor network data
 
-This repository contains code and data for the research "Research on spatio-temporal trend of sound and its influencing factors based on AoT sequence data".
+This repository contains code and data for the research "Spatiotemporal analytics of environmental sounds and influencing factors based on urban sensor network data".
 
 ### Description
 1、The data required for the research is under the **data** folder.<br>
